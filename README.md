@@ -18,10 +18,9 @@ Herkese kocaman bir merhaba, projelerime göz atmaya hoş geldiniz!
 ## 🛠️ Yetkinliklerim  
 
 - Python · TypeScript · Dart · C · Java · C# · SQL · HTML&CSS  
-- Veri Bilimi · Makine Öğrenimi · NLP · CV (Computer Vision)  
+- Veri Bilimi · Makine Öğrenme · Doğal Dil İşleme (NLP) ·  
 - Frontend & Mobile: Angular · Ionic · Flutter  
-- Backend: FastAPI 
-- 3D Modelling: Blender  
+- 3D Modelleme: Blender  
 - Git & GitHub · API Entegrasyonu · Veritabanı Yönetimi  
 
 ---
