@@ -1,3 +1,4 @@
+
 # Hilal Toklu
 Herkese kocaman bir merhaba, projelerime göz atmaya hoş geldiniz!
 
@@ -46,25 +47,32 @@ Herkese kocaman bir merhaba, projelerime göz atmaya hoş geldiniz!
 
 ## 📌 Öne Çıkan Projelerim  
 
-###**Blog Web Application (2025)** 
+- ### **Blog Uygulaması(2025)** 
  GitHub Repo → [Website](https://github.com/hilaltoklu/Website)
 
-Kullanıcı giriş/çıkış, CRUD işlemleri, çok dilli destek, tema desteği ve modern UI barındıran bir web uygulaması.  
+*Kullanıcı giriş/çıkış, CRUD işlemleri, çok dilli destek, tema desteği ve modern UI barındıran bir web uygulaması.*
 Teknolojiler: **Ionic + Angular**   
 
-![Blog App Screenshot](<img width="1920" height="1020" alt="Screenshot 2025-08-24 045657" src="https://github.com/user-attachments/assets/f8833b55-b0e2-4435-b9ae-43cc8f6ede6d" />
-)  
-![Blog App Screenshot](<img width="1920" height="1020" alt="Screenshot 2025-08-24 034446" src="https://github.com/user-attachments/assets/5cf8bb3c-5c23-40c0-a6fd-75a9dda0a3b4" />)  
+Projenin Örnek Ekran Görüntüleri:
+<p float="left">
+  <img src="assets/website-menu.png" width="450" />
+  <img src="assets/website-lang.png" width="450" />
+  
+</p>
 
 
-###**Pozitif Zihin (2025)**
+### **Pozitif Zihin (2025)**
  GitHub Repo → [PoZi](https://github.com/hilaltoklu/pozitif-zihin)  
 
-Yapay zekâ destekli ruh hali takibi ve kişiselleştirilmiş öneriler sunan mobil uygulama.  
-Frontend: **Flutter  + Python ML**
-Frontend: **Flutter (Dart) · UI tasarımı: Figma** Backend: **FastAPI · SQLite**
+*Yapay zekâ destekli ruh hali takibi ve kişiselleştirilmiş öneriler sunan mobil uygulama.* 
 
-![[App-ScreenSchot](<img width="431" height="646" alt="image" src="https://github.com/user-attachments/assets/c16545c0-57be-4eea-bf94-f6d003a9ffbf" />)
-![Blog App Screenshot](<img width="1590" height="1042" alt="image" src="https://github.com/user-attachments/assets/c371ac0f-390e-4201-904d-cdea84baee9e" />)
-![Blog App Screenshot](<img width="716" height="1042" alt="image" src="https://github.com/user-attachments/assets/7b9e2d18-2e7e-486e-9f9c-df0e13005651" />) 
+Frontend: **Flutter (Dart) · UI tasarımı: Figma**      |      Backend: **FastAPI · SQLite**
+
+
+Projenin Örnek Ekran Görüntüleri:
+<p float="left">
+  <img src="assets/pozi-splash.png" width="250" />
+  <img src="assets/pozi-mainpage.png" width="250" />
+  <img src="assets/pozi-moodpickpage.png" width="250" />
+</p>
 
