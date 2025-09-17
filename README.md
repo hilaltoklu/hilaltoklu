@@ -59,7 +59,7 @@ Herkese kocaman bir merhaba, projelerime göz atmaya hoş geldiniz!
 - 🛠️ *Teknolojiler:* **Ionic + Angular**  
 
 📸 *Projenin Örnek Ekran Görüntüleri:*  
-<p align="center">
+<p align="left">
   <img src="assets/website-menu.png" width="350" />
   <img src="assets/website-lang.png" width="350" />
 </p>
@@ -77,7 +77,7 @@ Herkese kocaman bir merhaba, projelerime göz atmaya hoş geldiniz!
 - ⚙️ *Backend:* **FastAPI · SQLite**  
 
 📸 *Projenin Örnek Ekran Görüntüleri:*  
-<p align="center">
+<p align="left">
   <img src="assets/pozi-splash.png" width="250" />
   <img src="assets/pozi-mainpage.png" width="250" />
 </p>
