@@ -67,7 +67,6 @@ Herkese kocaman bir merhaba, projelerime göz atmaya hoş geldiniz!
 ---
 
 ### 🌱 **Pozitif Zihin (2025)**  
-🔗 GitHub Repo → [PoZi](https://github.com/hilaltoklu/pozitif-zihin)  
 
 - ✨ *Özellikler:*  
   - Yapay zekâ destekli ruh hali takibi  
@@ -81,5 +80,4 @@ Herkese kocaman bir merhaba, projelerime göz atmaya hoş geldiniz!
 <p align="center">
   <img src="assets/pozi-splash.png" width="250" />
   <img src="assets/pozi-mainpage.png" width="250" />
-  <img src="assets/pozi-moodpickpage.png" width="250" />
 </p>
