@@ -44,35 +44,43 @@ Herkese kocaman bir merhaba, projelerime göz atmaya hoş geldiniz!
 </p>  
 
 ---
-
 ## 📌 Öne Çıkan Projelerim  
 
-- ### **Blog Uygulaması(2025)** 
- GitHub Repo → [Website](https://github.com/hilaltoklu/Website)
 
-*Kullanıcı giriş/çıkış, CRUD işlemleri, çok dilli destek, tema desteği ve modern UI barındıran bir web uygulaması.*
-Teknolojiler: **Ionic + Angular**   
+### 📝 **Blog Uygulaması (2025)**  
+🔗 GitHub Repo → [Website](https://github.com/hilaltoklu/Website)  
 
-Projenin Örnek Ekran Görüntüleri:
-<p float="left">
-  <img src="assets/website-menu.png" width="450" />
-  <img src="assets/website-lang.png" width="450" />
-  
+- ✨ *Özellikler:*  
+  - Kullanıcı giriş/çıkış  
+  - CRUD işlemleri  
+  - Çok dilli destek  
+  - Tema desteği  
+  - Modern UI  
+
+- 🛠️ *Teknolojiler:* **Ionic + Angular**  
+
+📸 *Projenin Örnek Ekran Görüntüleri:*  
+<p align="center">
+  <img src="assets/website-menu.png" width="350" />
+  <img src="assets/website-lang.png" width="350" />
 </p>
 
+---
 
-### **Pozitif Zihin (2025)**
- GitHub Repo → [PoZi](https://github.com/hilaltoklu/pozitif-zihin)  
+### 🌱 **Pozitif Zihin (2025)**  
+🔗 GitHub Repo → [PoZi](https://github.com/hilaltoklu/pozitif-zihin)  
 
-*Yapay zekâ destekli ruh hali takibi ve kişiselleştirilmiş öneriler sunan mobil uygulama.* 
+- ✨ *Özellikler:*  
+  - Yapay zekâ destekli ruh hali takibi  
+  - Kişiselleştirilmiş öneriler  
+  - Modern mobil arayüz  
 
-Frontend: **Flutter (Dart) · UI tasarımı: Figma**      |      Backend: **FastAPI · SQLite**
+- 🖌️ *Frontend:* **Flutter (Dart)** · UI tasarımı: **Figma**  
+- ⚙️ *Backend:* **FastAPI · SQLite**  
 
-
-Projenin Örnek Ekran Görüntüleri:
-<p float="left">
+📸 *Projenin Örnek Ekran Görüntüleri:*  
+<p align="center">
   <img src="assets/pozi-splash.png" width="250" />
   <img src="assets/pozi-mainpage.png" width="250" />
   <img src="assets/pozi-moodpickpage.png" width="250" />
 </p>
-
